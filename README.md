@@ -25,8 +25,8 @@
     <br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>  
-    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> <em>(Jan. 2022 ~ Feb. 2024)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gyeongsang National University <strong>IDEA lab</strong> · Udergraduate research intern </div>     
-    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> <em>(Jun. 2023 ~ Aug. 2023)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>(주)엔스퀘어</strong> · Internship, Deep Learning Engineer </div> 
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> <em>(Jan. 2022 ~ Feb. 2024)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gyeongsang National University IDEA lab · Udergraduate research intern </div>     
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> <em>(Jun. 2023 ~ Aug. 2023)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(주)엔스퀘어 · Internship, Deep Learning Engineer </div> 
     </div>
     </div>
     <br>
