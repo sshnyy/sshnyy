@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Sohyun's%20GitHub&fontSize=70&animation=scaleIn)
+
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Sohyun's%20GitHub&fontSize=70&animation=scaleIn" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Education </h2>  
