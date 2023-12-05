@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Sohyun's%20GitHub&fontSize=70&animation=scaleIn)
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2> <br> 
-<div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-      </div>
+<div align='center'>
+  <p align="center"> 
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/r-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp  
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/qgis-589632?style=flat-square&logo=qgis&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+  </p>
+</div>
 
 <div align= "center">
     </div>
@@ -30,15 +33,6 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4;  color: #282d33;"> Interests </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> ML/DL, Data Analysis, Prediction Modeling, Anomaly Detection  </div> 
-    </div>
-    <br>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
-          </div>
     </div>
     <br>
     <div style="text-align: left;">
