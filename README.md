@@ -3,13 +3,23 @@
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Education </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> (Mar. 2020 ~ Feb. 2024)    Gyeongsang National University, M.S. in Big Data </div> 
-    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About </h2>  
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> (Mar. 2020 ~ Feb. 2024) 지속적인 성장을 추구하는 Data Scientist입니다. 목표를 향해 열정과 노력으로 도전하고 있습니다. </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Education </h2>  
-    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> AI/ML, Deep Learning </div> 
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> (Mar. 2020 ~ Feb. 2024)    Gyeongsang National University, M.S. in Big Data </div> 
+    </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2>  
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> (Jan. 2022 ~ Feb. 2024) Gyeongsang National University IDEA lab · Udergraduate research intern </div>     
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> (Jun. 2023 ~ Aug. 2023)  (주)엔스퀘어 · Internship, Deep Learning Engineer </div> 
+    </div>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Interests </h2>  
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> ML/DL, Data Analysis, Prediction Modeling, Anomaly Detection  </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
