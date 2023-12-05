@@ -35,6 +35,14 @@
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> ML/DL, Data Analysis, Prediction Modeling, Anomaly Detection  </div> 
     </div>
     <br>
+    <br>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4;  color: #282d33;"> Projects </h2>  
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
+      
+    </div> 
+    </div>
+    <br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://solearn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"> </a>
