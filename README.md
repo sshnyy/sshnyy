@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6cb7c6&height=240&text=Sohyun's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Sohyun's%20GitHub&fontSize=70&animation=scaleIn" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Education </h2>  
