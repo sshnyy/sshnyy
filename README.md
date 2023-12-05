@@ -13,8 +13,4 @@
     <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
   </p>
 
-
-
-  <a href="https://solearn.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-
 </div>
