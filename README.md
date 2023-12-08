@@ -72,7 +72,7 @@
     <h2>Publications & Conferences</h2>
     <div class="section-content">
         <ul>
-            <li>윤소현, 강수연, 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY </em>,(2023). - (Submitted on Nov. 2023) </li>
+            <li>윤소현, 강수연, and 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY </em>, (2023). (Submitted on Nov. 2023) </li>
             <li>논문 제목 2, 발표 대회 2, 날짜 2</li>
             <!-- 필요한 만큼 목록 항목을 추가할 수 있습니다. -->
         </ul>
