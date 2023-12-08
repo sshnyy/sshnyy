@@ -68,13 +68,16 @@
 <br>
 
 <!-- Publications & Conferences 섹션 -->
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Publications & Conferences </h2>  
-    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
-        <!-- 내용 추가 -->
-    </div> 
+<div class="section">
+    <h2>Publications & Conferences</h2>
+    <div class="section-content">
+        <ul>
+            <li>윤소현, 강수연, 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY </em>,(2023). - (Submitted on Nov. 2023) </li>
+            <li>논문 제목 2, 발표 대회 2, 날짜 2</li>
+            <!-- 필요한 만큼 목록 항목을 추가할 수 있습니다. -->
+        </ul>
+    </div>
 </div>
-<br>
 
 <!-- Contact Me 섹션 -->
 <div style="text-align: left;">
