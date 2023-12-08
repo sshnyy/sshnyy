@@ -72,8 +72,11 @@
     <h2>Publications & Conferences</h2>
     <div class="section-content">
         <ul>
-            <li>윤소현, 강수연, and 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY </em>, (2023). (Submitted on Nov. 2023) </li>
-            <li>논문 제목 2, 발표 대회 2, 날짜 2</li>
+            <li>윤소현, 강수연, & 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY </em>, (2023). (Submitted on Nov. 2023) </li>
+            <li>윤소현, 성아영, & 김건우, "스택킹 앙상블 모델을 이용한 사출성형의 성형불량 검출," <em> 한국정보과학회 학술대회논문집 </em>, (2022). </li>
+            <li>강수연, 윤소현, & 김건우, "피부 병변 조기 진단을 위한 이미지 분류와 ChatGPT 기반 웹 시스템," <em> 한국정보기술학회 학술대회논문집 </em>, (2023). </li>            
+            <li>성아영, 윤소현, 강수연, & 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> 한국정보처리학회 학술대회논문집 </em>, (2023). (Submitted on Nov. 2023) </li>            
+            <li>성아영, 윤소현, 하유진, & 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> 한국공학교육학회 학술대회논문집 </em>, (2023). (Submitted on Nov. 2023) </li>          
             <!-- 필요한 만큼 목록 항목을 추가할 수 있습니다. -->
         </ul>
     </div>
