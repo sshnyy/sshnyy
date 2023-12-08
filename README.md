@@ -92,13 +92,16 @@
     </div>
 </div>
 
-<!-- Miscellaneous Works 섹션 -->
+<!-- Licenses & certifications 섹션 -->
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Miscellaneous Works </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Licenses & certifications </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
-        <a href="프로젝트 링크 1" class="project-link"> See More Projects </a>
-        <!-- 필요한 만큼 링크를 추가할 수 있습니다. -->
+        <em>(Issued Dec 2023)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL 개발자 (SQLD) · 한국데이터산업진흥원
+    </div>     
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
+        <em>(Issued May 2023)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터분석 준전문가 (ADsP) · 한국데이터산업진흥원
     </div> 
+</div>
 </div>
 <br>
 
@@ -106,7 +109,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> 
-        <a href=https://solearn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"> </a>&nbsp  
+        <a href=https://solearn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"></a>&nbsp
         <a href=https://velog.io/@solearn/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@solearn/GitHub-%EA%BE%B8%EB%AF%B8%EA%B8%B0"> </a>
     </div>  
     <br> 
