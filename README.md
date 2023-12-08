@@ -61,7 +61,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
-        <a href="프로젝트 링크 1" class="project-link"> 프로젝트 모음 </a>
+        <a href="프로젝트 링크 1" class="project-link"> 진행한 프로젝트 보기 </a>
         <!-- 필요한 만큼 링크를 추가할 수 있습니다. -->
     </div> 
 </div>
@@ -81,6 +81,16 @@
         </ul>
     </div>
 </div>
+
+<!-- Miscellaneous Works 섹션 -->
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Miscellaneous Works </h2>  
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
+        <a href="프로젝트 링크 1" class="project-link"> 기타 프로젝트 보기 </a>
+        <!-- 필요한 만큼 링크를 추가할 수 있습니다. -->
+    </div> 
+</div>
+<br>
 
 <!-- Contact Me 섹션 -->
 <div style="text-align: left;">
