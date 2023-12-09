@@ -29,7 +29,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Education </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
-        <em>(Mar. 2020 ~ Feb. 2024)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Gyeongsang National University</strong>, B.S. in Big Data 
+        <em>(Mar. 2020 ~ Feb. 2024)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Gyeongsang National University</strong>, B.S. Department of Computer Engineering in Big Data 
     </div> 
 </div>
 </div>
