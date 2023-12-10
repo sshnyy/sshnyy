@@ -67,16 +67,6 @@
 </div>
 <br>
 
-<!-- Miscellaneous Works 섹션 -->
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Miscellaneous Works </h2>  
-    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
-        <a href="프로젝트 링크 1" class="project-link"> See More Projects </a>
-        <!-- 필요한 만큼 링크를 추가할 수 있습니다. -->
-    </div> 
-</div>
-<br>
-
 <!-- Publications & Conferences 섹션 -->
 <div class="section">
     <h2>Publications & Conferences</h2>
