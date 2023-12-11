@@ -67,9 +67,9 @@
 </div>
 <br>
 
-<!-- Publications & Conferences 섹션 -->
+<!-- Publication & Conferences 섹션 -->
 <div class="section">
-    <h2>Publications & Conferences</h2>
+    <h2>Publication & Conferences</h2>
     <div class="section-content">
         <ul>
             <li>윤소현, 강수연, & 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY (KMS) </em>, (Submitted on Dec. 2023). </li>
