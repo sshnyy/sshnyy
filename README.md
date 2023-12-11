@@ -56,47 +56,20 @@
     </div> 
 </div>
 <br>
+
 <!-- Projects 섹션 -->
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
-    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
-        <!-- 첫 번째 프로젝트 -->
-        <div style="float: left; margin-right: 20px;">
-            <a href="github_link1">
-                <img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/a772fef7-5841-433c-bc90-e56322bc4296" alt="Project Image 1" style="width: 200px; height: 150px;">
-            </a>
-        </div>
-        <!-- 두 번째 프로젝트 -->
-        <div style="display: inline-block; margin-right: 20px;">
-            <a href="github_link2">
-                <img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/a772fef7-5841-433c-bc90-e56322bc4296" alt="Project Image 2" style="width: 200px; height: 150px;">
-            </a>
-        </div>
-        <!-- 추가 프로젝트 -->
-        <!-- 필요한 만큼 아래와 같은 형식으로 추가 -->
-        <div style="display: inline-block; margin-right: 20px;">
-            <a href="github_link3">
-                <img src="image_url3" alt="Project Image 3" style="width: 200px; height: 150px;">
-            </a>
-        </div>
-        <!-- See More Projects 링크 -->
-        <div style="clear: both; margin-top: 20px;">
-            <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"> See More Projects </a>
-        </div>
-    </div> 
-</div>
-<br>
-<!-- Publication & Conferences 섹션 -->
-<div class="section">
-    <h2>Publication</h2>
-    <div class="section-content">
-        <ul>
-            <li>윤소현, 강수연, & 김건우, "밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화," <em> JOURNAL OF KOREA MULTIMEDIA SOCIETY (KMS) </em>, (Submitted on Dec. 2023). </li>       
-            <!-- 필요한 만큼 목록 항목을 추가할 수 있습니다. -->
-        </ul>
+        <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"><em><strong>See More Projects</strong></em></a>&nbsp   
+    <div align='center'>
+        <p align="center"> <br>
+            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/449b019a-f929-44b6-b742-5531cd5875f1" alt="Project Image 1" style="width: 300px; height: 180px;"/></a>&nbsp&nbsp&nbsp 
+            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/122c1e96-797b-4c08-9d14-9e3102350c23" alt="Project Image 1" style="width: 300px; height: 180px;"/></a>&nbsp 
+            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/4ef242f2-c219-4d75-bcfd-c8b388b91237" alt="Project Image 1" style="width: 300px; height: 180px;"/></a><br>
+        </p>
     </div>
-</div>
-
+  
+<br>
 <!-- Publication & Conferences 섹션 -->
 <div class="section">
     <h2>Publications & Conferences</h2>
