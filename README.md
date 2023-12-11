@@ -64,9 +64,9 @@
     <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"><em><strong>See More Projects</strong></em></a>&nbsp   
     <div align='center'>
         <p align="center"> <br>
-            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/449b019a-f929-44b6-b742-5531cd5875f1" alt="Project Image 1" style="width: 260px; height: 150px; max-width: 30%; height: auto;"/></a>&nbsp&nbsp&nbsp 
-            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/122c1e96-797b-4c08-9d14-9e3102350c23" alt="Project Image 2" style="width: 260px; height: 150px; max-width: 30%; height: auto;"/></a>&nbsp 
-            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/4ef242f2-c219-4d75-bcfd-c8b388b91237" alt="Project Image 3" style="width: 260px; height: 150px; max-width: 30%; height: auto;"/></a><br>
+            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/449b019a-f929-44b6-b742-5531cd5875f1" alt="Project Image 1" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp&nbsp&nbsp 
+            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/122c1e96-797b-4c08-9d14-9e3102350c23" alt="Project Image 2" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp 
+            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/4ef242f2-c219-4d75-bcfd-c8b388b91237" alt="Project Image 3" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a><br>
         </p>
     </div>
 </div>
