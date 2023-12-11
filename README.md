@@ -63,9 +63,8 @@
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
         <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"> See More Projects </a>
         <!-- 이미지와 링크 추가 -->
-        <a href="github_link">
-            <img src="![스크린샷 2023-12-11 181116](https://github.com/sohyunyg/sohyunyg/assets/99328827/1d6c25e8-3fa4-4fc6-97a2-a8ebba67f01b)
-" alt="Project Image" style="width: 200px; height: 150px;">
+        <a href="https://github.com/sohyunyg/Completed_Projects">
+            <img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/1d6ebbe0-9051-4ea3-8fb6-c62b96349797" alt="Project Image" style="width: 200px; height: 150px;">
         </a>
         <!-- 필요한 만큼 링크를 추가할 수 있습니다. -->
     </div> 
