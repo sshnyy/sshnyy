@@ -64,9 +64,9 @@
     <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"><em><strong>See More Projects</strong></em></a>&nbsp   
     <div align='center'>
         <p align="center"> <br>
-            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/eca6046c-b105-4cdc-a115-a65837691657" alt="Project Image 1" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp&nbsp&nbsp 
-            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/8d2464a0-be3c-49d5-b7bd-e333e7d26516" alt="Project Image 2" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp 
-            <a href="github_link1"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/98f6aba3-be87-4741-bbe1-027f3c926f26" alt="Project Image 3" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a><br>
+            <a href="github_link1"><img src="https://github.com/sohyunyg/Completed_Projects/tree/master/2023/%EB%B0%80%EB%8F%84%EA%B8%B0%EB%B0%98%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%A0%84%EB%8F%99%ED%9C%A0%EC%B2%B4%EC%96%B4%20%EC%B6%A9%EC%A0%84%EC%86%8C%20%EC%9C%84%EC%B9%98%20%EC%B5%9C%EC%A0%81%ED%99%94" alt="Project Image 1" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp&nbsp&nbsp 
+            <a href="github_link1"><img src="https://github.com/sohyunyg/Completed_Projects/tree/master/2022/%EC%8A%A4%ED%83%9C%ED%82%B9%20%EC%95%99%EC%83%81%EB%B8%94%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%82%AC%EC%B6%9C%EC%84%B1%ED%98%95%EC%9D%98%20%EC%84%B1%ED%98%95%EB%B6%88%EB%9F%89%20%EA%B2%80%EC%B6%9C" alt="Project Image 2" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp 
+            <a href="github_link1"><img src="https://github.com/sohyunyg/Completed_Projects/tree/master/2022/%EC%82%AC%EC%B6%9C%EC%84%B1%ED%98%95%20%EA%B3%B5%EC%A0%95%20%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%B0%8F%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EB%B9%84%EA%B5%90%20%EC%97%B0%EA%B5%AC" alt="Project Image 3" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a><br>
         </p>
     </div>
 </div>
