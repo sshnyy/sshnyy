@@ -1,4 +1,4 @@
-![image](https://github.com/sohyunyg/sohyunyg/assets/99328827/5c4796d4-0de8-4709-ac49-1cb5a5991092)<!-- Header 섹션 -->
+<!-- Header 섹션 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=250&section=header&text=Sohyun's%20GitHub&fontSize=70&animation=scaleIn)
 <div align='center'>
   <p align="center"> 
