@@ -91,6 +91,9 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Licenses & certifications </h2>  
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
+        <em>(Issued Dec 2023)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;빅데이터분석기사 · 한국데이터산업진흥원
+    </div>   
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
         <em>(Issued Dec 2023)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL 개발자 (SQLD) · 한국데이터산업진흥원
     </div>     
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> 
