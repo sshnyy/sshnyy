@@ -61,7 +61,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
     <a>📌 </a>
-    <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"><em><strong>See More Projects</strong></em></a>&nbsp   
+    <a href="https://github.com/sohyunyg/Completed_Projects" class="project-link"><em><strong>See More Projects ! </strong></em></a>&nbsp   
     <div align='center'>
         <p align="center"> <br>
             <a href="https://github.com/sohyunyg/Completed_Projects/tree/master/2023/%EB%B0%80%EB%8F%84%EA%B8%B0%EB%B0%98%20%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%A0%84%EB%8F%99%ED%9C%A0%EC%B2%B4%EC%96%B4%20%EC%B6%A9%EC%A0%84%EC%86%8C%20%EC%9C%84%EC%B9%98%20%EC%B5%9C%EC%A0%81%ED%99%94"><img src="https://github.com/sohyunyg/sohyunyg/assets/99328827/c544276e-2685-4104-9abc-bdb66dffd63f" alt="Project Image 1" style="width: 250px; height: 140px; max-width: 30%; height: auto;"/></a>&nbsp&nbsp&nbsp 
