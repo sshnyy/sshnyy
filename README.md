@@ -6,10 +6,9 @@
 
 ## 🙋🏻‍♀️ About me
 
-🐣 I started studying on Mar, 2020  
-✍🏻 I studied at an AI research lab for 2 years   
-👩🏻💻 I want to be a AI researcher/developer  
-🌳 I have a bachelor's degree in computer science 
+🐣 I started studying from March 2020  
+👩🏻💻 I want to be a software QA  
+🌳 I have a bachelor's degree in computer engineering
 
 <br>
 
