@@ -7,7 +7,7 @@
 ## 🙋🏻‍♀️ About me
 
 🐣 I started studying from March 2020  
-👩🏻💻 I want to be a QA  
+👩🏻💻 I want to be a -
 🌳 I have a bachelor's degree in computer engineering
 
 <br>
