@@ -1,87 +1,93 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:506daf,100:8eaae1&height=120&text=Sohyeon's%20Github&animation=&fontColor=ffffff&fontSize=60" />
     </div>
+  
 
-<br>
+### <div align="center">
 
 ## 🙋🏻‍♀️ About me
+* ⚡ SW Testing, Full-Stack 개발, AI 서비스, 빅데이터 분석 프로젝트 경험과 관련 학위, 자격증 보유. 
 
-🐣 I started studying from March 2020  
-👩🏻💻 I want to be a -  
-🌳 I have a bachelor's degree in computer engineering
-
-<br>
-
-
-
-## 🚀 TECHS & TOOLS
-
-🔥 SKILLS ⬇️ (🥅 My Goals: I'll learn these)
-
-<div align=center>   
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  <br>
+- 🔭 2022.01 : 2년간 컴퓨터공학부 AI 연구실의 학부생 인턴으로 근무하였습니다.
   
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
+- 🌱 2024.02 : 현재는 AI&웹 개발자로 근무하고 있습니다.
   
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <br>
+<br/>  
 
-  <br>
+
+## 🚀 Skill Set
+<table><tr><td valign="top" width="33%">
+
+### Frontend & Backend
+<div align="center">  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/java.png" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/flutterio.png" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/oracle.png" alt="Oracle" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/springio.png" alt="Springio" height="50" />  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/mysql.png" alt="Mysql" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
+</td><td valign="top" width="33%">
+
+### AI & Data Analysis  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/R.png" alt="R" height="45" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+</div>
+</td><td valign="top" width="33%">
 
 
-🔥 TOOLS ⬇️
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Slack](https://img.shields.io/badge/Slack-E01E5A?style=flat-square&logo=Slack)
-![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+</div>
 
-<br>
+</td></tr></table>  
+
+<br/>
+
+## 🔥 Frequently used skills ⬇️
+* Java, Python, Javascript, MySQL, Django, D3, AWS, Git(github, gitlab)
+
+<br/>
 
 
 ## 📬 Find me at
-
-<!-- [![Portfolio](https://img.shields.io/badge/My_page-181717?style=flat-square&logo=github)](https://www.keemtj.com) -->
-
-<a href=https://solearn.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"></a>
-<a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com"/></a>
+<div align="center">
+<a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com" alt=github style="margin-bottom: 5px;"/></a>
+<a href="https://solearn.tistory.com/" target="_blank">
+<img src=https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white alt=tistory style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/sshnyy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <br>
 
+## 🖥️ Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight" align="center" /></div>
 
-![Sohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohyunyg&count_bg=%235A95DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<div><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohyunyg&count_bg=%235A95DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" align="center" /></div>
+<br/>
 
