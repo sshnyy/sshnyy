@@ -13,6 +13,7 @@
 - 🌱 2024.02 : 현재는 AI&웹 개발자로 근무하고 있습니다.
 
 - 📚 목표를 향해 "잘 하고, 같이 가는" 2024년까지 다양한 토이 프로젝트를 시도하며 개발 지식을 쌓았습니다.
+
   
 
 <br/>  
@@ -68,7 +69,7 @@
 <br/>
 
 ## 🔥 Frequently used skills ⬇️
-* Java, Python, Javascript, MySQL, Django, D3, AWS, Git(github, gitlab)
+* Java, Python, SQL, Spring, Django, AWS, Git(github, gitlab)
 
 <br/>
 
