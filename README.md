@@ -76,9 +76,11 @@
 
 ## 📬 Find me at
 <div align="center">
-<a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com" alt=github style="margin-bottom: 5px;"/></a>
 <a href="https://solearn.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white alt=tistory style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:yunsoyun9426@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com" alt=github style="margin-bottom: 5px;"/>
 </a>
 <a href="https://github.com/sshnyy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
