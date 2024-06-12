@@ -67,7 +67,7 @@
 <br/>
 
 ## 🔥 Frequently used skills ⬇️
-* Java, Python, SQL, Spring, Django, AWS, Git(github, gitlab)
+* Python, SQL, Java, Spring, Flask, AWS, Git(github, gitlab)
 
 <br/>
 
