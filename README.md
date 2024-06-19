@@ -1,11 +1,12 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:506daf,100:8eaae1&height=120&text=Sohyeon's%20Github&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
+
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height200&descAlign=20)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Sohyeon's+GitHub!)
+
 
 ### <div align="center">
 
-## 🙋🏻‍♀️ About me
+## 😊 About me
 * ⚡ SW Testing, Full-Stack 개발, AI 서비스, 빅데이터 분석 프로젝트 경험과 관련 학위, 자격증 보유. 
 
 - 🔭 2022.01 : 2년간 컴퓨터공학부 AI 연구실의 학부생 인턴으로 근무하였습니다.
