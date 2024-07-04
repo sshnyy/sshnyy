@@ -86,8 +86,17 @@
 <br>
 
 ## 🖥️ Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight" align="center" /></div>
+<p align="left">
+  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight"/>
+    </a></span>
+  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260" />
+    </a></span>
+  <br/> 
+<br>
 
+  
 <br>
 <div><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsshnyy&count_bg=%235A95DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" align="center" /></div>
 <br/>
