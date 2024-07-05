@@ -64,7 +64,7 @@
 <br/>
 
 ## 🔥 Frequently used skills ⬇️
-* Python, SQL, Java, Spring, Flask, Docker, Git
+* Python, Java, Spring, Neo4j(GraphDB) JS, Docker
 
 <br>
 
