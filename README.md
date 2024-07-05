@@ -72,24 +72,21 @@
 
 ## 📬 Find me at
 <div align="center">
-<p align="center">
   <a href="https://solearn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"/></a>&nbsp
   <a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com"/></a>&nbsp
   <a href="---"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=---"/></a>&nbsp
-</p>
 </div>  
 
 <br>
 
 ## 🖥️ Github Stats  
-<p align="left">
-  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight"/>
-    </a></span>
-  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260" />
-    </a></span>
-  <br/> 
+<div align="center">
+  
+[![Sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=sshnyy&count_private=true&custom_title=Sohyeon's&nbsp;github&nbsp;👀&bg_color=80,4682B4,AFEEEE&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=90,4682B4,AFEEEE&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>  
+   
 <br>
 
   
