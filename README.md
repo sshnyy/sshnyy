@@ -70,9 +70,10 @@
 
 ## 💻 Github Stats  
 <div align="center">
-  
-[![Sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=sshnyy&count_private=true&custom_title=Sohyeon's&nbsp;github&nbsp;👀&bg_color=30,acc3df,859bcc&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,acc3df,859bcc&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight&hide=issues&line_height=24&include_all_commits=True&hide_border=True"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight&hide=issues&line_height=24&include_all_commits=True&hide_border=True"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260"/></a>
 
 </div>  
    
