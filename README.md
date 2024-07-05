@@ -67,19 +67,9 @@
 ## 🔥 Frequently used skills ⬇️
 * Python, SQL, Java, Spring, Flask, AWS, Git
 
-<br/>
-
-
-## 📬 Find me at
-<div align="center">
-  <a href="https://solearn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"/></a>&nbsp
-  <a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com"/></a>&nbsp
-  <a href="---"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=---"/></a>&nbsp
-</div>  
-
 <br>
 
-## 🖥️ Github Stats  
+## 💻 Github Stats  
 <div align="center">
   
 [![Sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=sshnyy&count_private=true&custom_title=Sohyeon's&nbsp;github&nbsp;👀&bg_color=50,5e92cf,aaeab0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -89,7 +79,18 @@
    
 <br>
 
-  
+
+## 📬 Find me at
+<div align="center">
+  <a href="https://solearn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"/></a>&nbsp
+  <a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com"/></a>&nbsp
+  <a href="---"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=---"/></a>&nbsp
+</div>  
+
+
+<br/>
+
+
 <br>
 <div><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsshnyy&count_bg=%235A95DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" align="center" /></div>
 <br/>
