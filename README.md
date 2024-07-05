@@ -72,8 +72,8 @@
 ## 💻 Github Stats  
 <div align="center">
   
-[![Sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=sshnyy&count_private=true&custom_title=Sohyeon's&nbsp;github&nbsp;👀&bg_color=50,5e92cf,aaeab0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=50,5e92cf,aaeab0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Sohyeon's github stats](https://github-readme-stats.vercel.app/api?username=sshnyy&count_private=true&custom_title=Sohyeon's&nbsp;github&nbsp;👀&bg_color=50,5e92cf,cde4ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=50,5e92cf,cde4ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
    
