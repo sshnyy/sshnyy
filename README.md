@@ -82,7 +82,7 @@
 
 ## 📬 Find me at
 <div align="center">
-  <a href="https://solearn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://solearn.tistory.com/"/></a>&nbsp
+  <a href="https://--/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://--.tistory.com/"/></a>&nbsp
   <a href="mailto:yunsoyun9426@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yunsoyun9426@gmail.com"/></a>&nbsp
   <a href="---"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=---"/></a>&nbsp
 </div>  
