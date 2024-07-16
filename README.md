@@ -70,9 +70,8 @@
 
 ## 💻 Github Stats  
 <div align="center">
-
-
 <a href="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight&hide=issues&line_height=24&include_all_commits=True&hide_border=True"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sshnyy&show_icons=true&theme=tokyonight&hide=issues&line_height=24&include_all_commits=True&hide_border=True"/></a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshnyy&layout=compact&theme=tokyonight&langs_count=6&hide_border=True&card_width=260"/></a>
 
 </div>  
