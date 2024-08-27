@@ -28,9 +28,8 @@
 <img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/springio.png" alt="Springio" height="50" />  
 <img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/mysql.png" alt="Mysql" height="50" /> 
 <img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/oracle.png" alt="Oracle" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -38,7 +37,6 @@
 ### AI & Data Analysis  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/R.png" alt="R" height="45" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 </div>
