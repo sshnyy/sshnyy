@@ -20,17 +20,19 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend & Backend
+### Full-stack 
 <div align="center">  
 <img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/java.png" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />    
-<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/springio.png" alt="Springio" height="50" />  
 <img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/mysql.png" alt="Mysql" height="50" /> 
 <img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/oracle.png" alt="Oracle" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://dev.habitmaker.co.kr/src/img/icon/springio.png" alt="Springio" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />    
 </div>
+<br>
+(Frontend & Backend)
 
 </td><td valign="top" width="33%">
 
