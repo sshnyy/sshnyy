@@ -60,7 +60,7 @@
 <br/>
 
 ## 🔥 Frequently used skills ⬇️
-* Python, Java, Django, Spring, Neo4j(GraphDB), MySQL, JS
+* Python, Django, Java, Spring, JS, Neo4j(GraphDB), MySQL
 
 <br>
 
