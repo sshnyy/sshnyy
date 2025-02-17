@@ -73,7 +73,7 @@
    
 <br>
 
-
+<!-- 
 ## 📬 Find me at
 <div align="center">
   <a href="https://--/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://--.tistory.com/"/></a>&nbsp
@@ -81,11 +81,12 @@
   <a href="---"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=---"/></a>&nbsp
 </div>  
 
-
 <br>
 
 
 <br>
+
+-->
 
 <br>
 
