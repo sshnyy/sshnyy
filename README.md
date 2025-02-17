@@ -6,11 +6,12 @@
 
 ### <div align="center">
 
+<!-- 
 ## 👋 About me
 
 - 📚 아직 배울게 많은 AI/웹 개발자입니다.
 - 😎 나만의 일을 찾기 위해 열심히 노력중입니다.
-  
+-->
 
 <br/>  
 
@@ -59,7 +60,9 @@
 <br/>
 
 ## 🔥 Frequently used skills ⬇️
-* Python, Django, Java, Spring, JS, Neo4j(GraphDB), MySQL
+* Python, Java, Spring, JS, SQL, Neo4j(GraphDB), MySQL, Oracle, Postman, Locust, Selenium, Linux, Git
+
+
 
 <br>
 
