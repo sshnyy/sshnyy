@@ -60,7 +60,9 @@
 <br/>
 
 ## 🔥 Frequently used skills ⬇️
-* Python, Java, Spring, JS, SQL, Neo4j(GraphDB), MySQL, Oracle, Postman, Locust, Selenium, Linux, Git
+* Python, Java, Spring, JS, SQL
+* Neo4j(GraphDB), MySQL, Oracle
+* Postman, Locust, Selenium, Linux, Git
 
 
 
