@@ -61,7 +61,7 @@
 
 ## 🔥 Frequently used skills ⬇️
 * Python, Java, Spring, JS, SQL
-* Node.js, Flask, Spring boot
+* Node.js, Flask, Spring Boot
 * Neo4j(GraphDB), MariaDB, MySQL, Oracle
 * Postman, Locust, Selenium, Linux, Git
 
